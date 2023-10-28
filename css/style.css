@@ -208,3 +208,42 @@ h6{
 	margin: 0 auto;
 	margin-top: 96px ;
 }
+.container9 {
+	background-color: #E7E7E7;
+	width: 1660px;
+	height: 735px;
+	margin: 0 auto;
+}
+h1{
+	width: 700px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: Helvetica Neue;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding-top: 93px;
+	padding-left: 162px;
+	padding-bottom: 27px;
+}
+.contacth2{
+	color: #7E8898;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-top: 11px;
+	padding-left: 162px;
+}
+.map{
+	padding-top: 93px;
+	padding-right: 40px;
+	vertical-align: top;
+	width: 800px;
+	height: 560px;
+}
+.div5{
+	display: inline-block;
+}
